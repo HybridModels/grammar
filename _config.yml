@@ -1,10 +1,10 @@
-id: 60
+id: 59
 user: eq19
-span: span-41
+span: span-40
 title: eQuantum
-baseurl: /falcon
-repository: HybridModels/falcon
-action: HybridModels/grammar/actions/runs/14652820576
+baseurl: /grammar
+repository: HybridModels/grammar
+action: HybridModels/syntax/actions/runs/14974493094
 description: ₠Quantum Project
 
 #debug:
@@ -48,6 +48,6 @@ plugins:
   - jekyll-optional-front-matter
 
 track:
-  spin: [4, 7]
+  spin: [4, 6]
   pinned: [maps, feed, lexer, parser, syntax, grammar, falcon, webpack, wikibox, transparency, flavio, ta-lib]
   organization: [Chetabahana, FeedMapping, GlobalZones, HybridModels, JunctionTerms, KernelPatterns, MappingSystem, NeuralSystem, ObjectModules, VirtualNetworks, WeakNegative, WeakPositive, ZeroWeak]
